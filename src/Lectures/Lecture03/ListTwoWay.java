@@ -1,6 +1,6 @@
 package Lectures.Lecture03;
 
-public class List {
+public class ListTwoWay {
     Node head;
     Node tail;
 

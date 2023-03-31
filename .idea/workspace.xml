@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4ffa2e3-c477-4a80-8bc5-d3dc23eacccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework01/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework03/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/Lecture03/ListTwoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar03/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar02/DynamicProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar02/DynamicProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/Homework01/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/Homework02/Homework02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
     "last_opened_file_path": "C:/_GB/5_Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Homework01">
+  <component name="RunManager" selected="Application.Homework03">
     <configuration name="DynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminars.Seminar02.DynamicProgramming" />
       <module name="_Algorithms" />
@@ -55,12 +57,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeworks.Homework01.Homework01" />
+    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homeworks.Homework02.Homework02" />
       <module name="_Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homeworks.Homework01.*" />
+          <option name="PATTERN" value="Homeworks.Homework02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homeworks.Homework03.Homework03" />
+      <module name="_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homeworks.Homework03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,13 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seminar01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminars.Seminar01.Seminar01" />
-      <module name="_Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sorts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminars.Seminar02.Sorts" />
       <module name="_Algorithms" />
@@ -91,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework01" />
+        <item itemvalue="Application.Homework03" />
+        <item itemvalue="Application.Homework02" />
         <item itemvalue="Application.DynamicProgramming" />
         <item itemvalue="Application.Sorts" />
         <item itemvalue="Application.Lecture02" />
-        <item itemvalue="Application.Seminar01" />
       </list>
     </recent_temporary>
   </component>
