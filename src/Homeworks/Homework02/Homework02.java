@@ -1,10 +1,10 @@
-package Homeworks.Homework01;
+package Homeworks.Homework02;
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.IntStream;
 
-public class Homework01 {
+public class Homework02 {
     public static void main(String[] args) {
         /*
         Реализовать сортировку подсчетом
