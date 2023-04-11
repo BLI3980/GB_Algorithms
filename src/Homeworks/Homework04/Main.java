@@ -16,13 +16,14 @@ public class Main {
         tree.add(0);
         tree.add(4);
 
-        System.out.println(tree.dfs());
-        System.out.println(tree.bfs());
         // 1. Find max element in the tree
-        System.out.println(tree.maxElement());
+        System.out.printf("1. The largest element of the tree is %d.\n", tree.maxElement());
 
         // 2. Count the amount of leaf nodes in the tree
-        System.out.println(tree.countLeafs());
+        System.out.printf("2. The amount of leaf nodes in the tree is %d.\n", tree.countLeafs());
+
+        // 3. Implement a method checking if a tree is balanced
+        System.out.printf("3. This tree is balanced: %b\n", tree.isBalanced());
 
     }
 }
